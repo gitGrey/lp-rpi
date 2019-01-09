@@ -1,2 +1,2 @@
 # lp-rpi
-my first project "Lightpainting with raspberry pi"
+my first project "Lightpainting with Raspberry Pi (RPI)"
